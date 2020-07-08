@@ -1,0 +1,47 @@
+'Start of script'
+loop1 = 1
+while loop1 > 2
+	x=msgbox("Wow dude... so uncool", 2+16, "Fortnite sucks!")
+	x=msgbox("Why?", 2+16, "Fortnite is NOT a good game!")
+	x=msgbox("Get gud,", 2+16, "Fortnite is for 5 year olds.")
+	x=msgbox("I will not stop", 2+16, "I must get the cancer away")
+	x=msgbox("You have been diagnosed with stage 72 cancer - Doctor with PhD", 2+16, "Fortnite is a dangerous disease that it spreads even worse than cancer and can ruin your life")
+	x=msgbox("DON'T... FUCKING... MOVE", 2+16, "If you dance here, I will make sure you never move a limb again")
+	x=msgbox("Ninja sucks", 2+16, "Ninja sucks")
+	x=msgbox("I'm not seeing enough movement", 2+16, "Stop with the fortnite, you aren't a baby anymore")
+	x=msgbox("Deleting files isn't that hard", 2+16, "Show that you have some intelligence by deleting Fortnite off your device")
+	x=msgbox("This won't end", 2+16, "These messages won't stop lol")
+	x=msgbox("Wow dude... so uncool", 2+32, "Fortnite sucks!")
+	x=msgbox("Why?", 2+32, "Fortnite is NOT a good game!")
+	x=msgbox("Get gud,", 2+32, "Fortnite is for 5 year olds.")
+	x=msgbox("I will not stop", 2+32, "I must get the cancer away")
+	x=msgbox("You have been diagnosed with stage 72 cancer - Doctor with PhD", 2+32, "Fortnite is a dangerous disease that it spreads even worse than cancer and can ruin your life")
+	x=msgbox("DON'T... FUCKING... MOVE", 2+32, "If you dance here, I will make sure you never move a limb again")
+	x=msgbox("Ninja sucks", 2+32, "Ninja sucks")
+	x=msgbox("I'm not seeing enough movement", 2+32, "Stop with the fortnite, you aren't a baby anymore")
+	x=msgbox("Deleting files isn't that hard", 2+32, "Show that you have some intelligence by deleting Fortnite off your device")
+	x=msgbox("This won't end", 2+32, "These messages won't stop lol")
+	x=msgbox("Wow dude... so uncool", 2+48, "Fortnite sucks!")
+	x=msgbox("Why?", 2+48, "Fortnite is NOT a good game!")
+	x=msgbox("Get gud,", 2+48, "Fortnite is for 5 year olds.")
+	x=msgbox("I will not stop", 2+48, "I must get the cancer away")
+	x=msgbox("You have been diagnosed with stage 72 cancer - Doctor with PhD", 2+48, "Fortnite is a dangerous disease that it spreads even worse than cancer and can ruin your life")
+	x=msgbox("DON'T... FUCKING... MOVE", 2+48, "If you dance here, I will make sure you never move a limb again")
+	x=msgbox("Ninja sucks", 2+48, "Ninja sucks")
+	x=msgbox("I'm not seeing enough movement", 2+48, "Stop with the fortnite, you aren't a baby anymore")
+	x=msgbox("Deleting files isn't that hard", 2+48, "Show that you have some intelligence by deleting Fortnite off your device")
+	x=msgbox("This won't end", 2+48, "These messages won't stop lol")
+	x=msgbox("Wow dude... so uncool", 2+64, "Fortnite sucks!")
+	x=msgbox("Why?", 2+64, "Fortnite is NOT a good game!")
+	x=msgbox("Get gud,", 2+64, "Fortnite is for 5 year olds.")
+	x=msgbox("I will not stop", 2+64, "I must get the cancer away")
+	x=msgbox("You have been diagnosed with stage 72 cancer - Doctor with PhD", 2+64, "Fortnite is a dangerous disease that it spreads even worse than cancer and can ruin your life")
+	x=msgbox("DON'T... FUCKING... MOVE", 2+64, "If you dance here, I will make sure you never move a limb again")
+	x=msgbox("Ninja sucks", 2+64, "Ninja sucks")
+	x=msgbox("I'm not seeing enough movement", 2+64, "Stop with the fortnite, you aren't a baby anymore")
+	x=msgbox("Deleting files isn't that hard", 2+64, "Show that you have some intelligence by deleting Fortnite off your device")
+	x=msgbox("This won't end", 2+64, "These messages won't stop lol") wend
+'Trying to fix this script. I'm not the best with Visual Basic yet. This file alone shows EVERYTHING I know about VBScript'
+'Just today, I learned how to comment and create [while] loops'
+'Sean Myrick 4:54 pm January 29th 2019'
+'End of program'
